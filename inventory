@@ -1,0 +1,11 @@
+[pis]
+192.168.100.132
+192.168.100.145
+192.168.100.135
+192.168.100.141
+192.168.100.138
+
+[pis:vars]
+ansible_user=pi
+ansible_password=raspberry
+
